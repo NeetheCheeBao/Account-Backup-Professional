@@ -50,3 +50,6 @@ Excel Structure
 >
 > ### version20260711044404
 > - Removed the incorrectly hidden Sheet3
+
+#
+Encryption? No, no, no! Since I'm using Excel, plain text is just more convenient. Haha.😂
