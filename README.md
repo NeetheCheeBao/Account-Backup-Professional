@@ -1,4 +1,4 @@
-# **This is just a special but ordinary Excel file.**
+# **This is just a ordinary but special Excel file.**
 
 ### 💡Usage Recommendations
 `It is recommended to store this file on offline cold backup storage media.`
