@@ -1,5 +1,8 @@
 # **This is just a special but ordinary Excel file.**
 
+### 💡Usage Recommendations
+`It is recommended to store this file on offline cold backup storage media.`
+
 ### [⬇️Download File](https://github.com/NeetheCheeBao/Account-Backup-Professional/tree/main/ExcelFile)
 
 ```text
