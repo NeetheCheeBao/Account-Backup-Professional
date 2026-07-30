@@ -50,6 +50,9 @@ Excel Structure
 >
 > ### version20260711044404
 > - Removed the incorrectly hidden Sheet3
+>
+> ### version20260731042543
+> - Adjust Sheet4 "2FA" to decrease the width of column B and increase the width of column C
 
 #
 Encryption? No, no, no! Since I'm using Excel, plain text is just more convenient. Haha.😂
