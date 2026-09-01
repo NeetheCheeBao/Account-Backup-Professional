@@ -1,9 +1,12 @@
 # **This is just a ordinary but special Excel file.**
 
-### 💡Usage Recommendations
-`It is recommended to store this file on offline cold backup media and to keep a physical paper copy.`
+> [!IMPORTANT]
+> ### 💡Usage Recommendations
+> `It is recommended to store this file on offline cold backup media and to keep a physical paper copy.`
 
-### [⬇️Download File](https://github.com/NeetheCheeBao/Account-Backup-Professional/tree/main/ExcelFile)
+<a href="https://github.com/NeetheCheeBao/Account-Backup-Professional/tree/main/ExcelFile">
+  <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F-Go%20to%20Download-59AEFA?style=for-the-badge&logoColor=white" alt="Go to Download" />
+</a>
 
 ```text
 Excel Structure
@@ -36,11 +39,13 @@ Excel Structure
         └── 备注
 ```
 
-### 🖨️ Guide to Printing Copies
-- *An `A3` printer (monochrome or color) is required.*
-- *`A3` paper (ISO 216 standard) is required.*
+> [!TIP]
+> ### 🖨️ Guide to Printing Copies
+> - *An `A3` printer (monochrome or color) is required.*
+> - *`A3` paper (ISO 216 standard) is required.*
 
-### 📃 Changelog
+> [!NOTE]
+> ### 📃 Changelog
 > ### version20260512200750
 > - Null
 >
@@ -53,6 +58,11 @@ Excel Structure
 >
 > ### version20260731042543
 > - Adjust Sheet4 "2FA" to decrease the width of column B and increase the width of column C
+>
+> ### version20260901155053
+> - Support for enabling filtering by default on the 2 row of "Sheet2", "Sheet3", and "Sheet4"
 
-#
-Encryption? No, no, no! Since I'm using Excel, plain text is just more convenient. Haha.😂
+---
+
+> [!CAUTION]
+> Encryption? No, no, no! Since I'm using Excel, plain text is just more convenient. Haha.😂
