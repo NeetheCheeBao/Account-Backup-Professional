@@ -60,7 +60,7 @@ Excel Structure
 > - Adjust Sheet4 "2FA" to decrease the width of column B and increase the width of column C
 >
 > ### version20260901155053
-> - Support for enabling filtering by default on the 2 row of "Sheet2", "Sheet3", and "Sheet4"
+> - Added a default-enabled filtering function for `Row2`
 
 ---
 
